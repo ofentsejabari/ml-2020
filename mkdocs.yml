@@ -1,0 +1,7 @@
+site_name: Machine Learning Novice
+
+
+nav:
+  - Requirements: index.md
+  - Introduction: introduction.md
+  - Keras: keras.md
