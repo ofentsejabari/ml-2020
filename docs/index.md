@@ -1,4 +1,10 @@
-# Requirements
+# Disclaimer
+Please note the maintainer of this pages does not claim ownership of the content (could it be the outline,
+  images and the material in general) and he realy appreciate and attributed (where possible) every content and resources used to their sole owners.
+
+# Pre-requisite
+
+To follow alone with the tutorials, ensure that the requiremets below are met.
 
 * `Python version >= 3.5`.
     * `Numpy` - [A powerful N-dimentional array object](https://numpy.org/).

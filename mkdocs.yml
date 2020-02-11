@@ -1,7 +1,19 @@
-site_name: Machine Learning Novice
-
-
+site_name: ML Novice
+# theme: readthedocs
 nav:
-  - Requirements: index.md
-  - Introduction: introduction.md
-  - Keras: keras.md
+  - Home: index.md
+  - Crash Courses:
+    - Python Programming Language:
+      - Introduction: cc/python.md
+      - Numpy: cc/numpy.md
+      - Pandas: cc/pandas.md
+      - Visualization: cc/visualization.md
+
+  - Machine Learning:
+    - Concept Overviwes: ml/overview.md
+    - Artificial Neural Networks (ANNs): ml/ann.md
+    - Convolutional Neural Networks (CNNs): ml/cnn.md
+
+plugins:
+    - search
+    - mkpdfs
