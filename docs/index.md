@@ -4,7 +4,7 @@ Please note the maintainer of this pages does not claim ownership of the content
 
 # Pre-requisite
 
-To follow alone with the tutorials, ensure that the requiremets below are met.
+To follow alone with the tutorials, ensure that the requiremets below are satisfied.
 
 * `Python version >= 3.5`.
     * `Numpy` - [A powerful N-dimentional array object](https://numpy.org/).

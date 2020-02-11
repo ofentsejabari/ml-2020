@@ -5,7 +5,7 @@
   using python programming language. Thus, ensure that you have python interpreter
   and all libraries below are installed install.
 
-![recipe](img/1.jpg)
+![recipe](../img/1.jpg)
 
 # Numpy Arrays
 
